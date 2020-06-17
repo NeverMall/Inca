@@ -1,0 +1,10 @@
+{
+    "itemGroup.inca.general": "Inca",
+  "block.inca.nautilus_ore": "Древняя окаменелость",
+
+    "item.inca.llama_spit_bottle": "Бутылка с плевком ламы",
+    "item.inca.salt_bottle": "Бутылка соли",
+    "item.inca.salt_bottle.lore":  "Всё ещё пахнет ламой",
+
+    "key.inca.spit": "Плевок ламы"
+}
